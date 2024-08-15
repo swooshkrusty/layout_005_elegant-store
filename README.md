@@ -6,4 +6,4 @@
 - JS
 
 ## Link on Website
-## Elegant Store] https://swooshkrusty.github.io/layout_005_elegant-store/
+## Elegant Store https://swooshkrusty.github.io/layout_005_elegant-store/
