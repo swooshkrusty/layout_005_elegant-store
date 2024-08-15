@@ -1,0 +1,72 @@
+[
+    {
+        "img": "01",
+        "title" : "Sony - WH-1000XM5 Wireless Noise Canceling",
+        "price": "$299.99",
+        "status": "HOT",
+        "rating": 5
+    },
+
+    {
+        "img": "02",
+        "title" : "Beats Studio Pro",
+        "price": "$349.99",
+        "status": "HOT",
+        "rating": 4
+        
+    },
+
+    {
+        "img": "03",
+        "title" : "Sony - WH-CH720N Wireless Noise Canceling",
+        "price": "$149.99",
+        "status": "HOT",
+        "rating": 3
+    },
+
+    {
+        "img": "04",
+        "title" : "Skullcandy - Rail True Wireless Earbuds",
+        "price": "$79.99",
+        "status": "HOT",
+        "rating": 2
+        
+    },
+    
+    {
+        "img": "05",
+        "title" : "Beats Studio Pro",
+        "price": "$224.99",
+        "status": "HOT",
+        "rating": 1
+        
+    },
+
+    {
+        "img": "06",
+        "title" : "JBL Reflect Flow Pro+ Bluetooth Truly Wireless Sports",
+        "price": "$179.95",
+        "status": "HOT",
+        "rating": 4
+        
+    },
+
+    {
+        "img": "07",
+        "title" : "Bose QuietComfort Headphones",
+        "price": "$349.00",
+        "status": "HOT",
+        "rating": 5
+        
+    },
+
+    {
+        "img": "08",
+        "title" : "AKG Y600NC Wireless",
+        "price": "$349.99",
+        "status": "HOT",
+        "rating": 5
+        
+    }
+
+]
